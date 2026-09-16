@@ -1,0 +1,46 @@
+{
+  "id": 42,
+  "category": "game-companion",
+  "slug": "dota2-draft-notebook",
+  "target": "Dota 2",
+  "appid": "570",
+  "summaryRu": "Ручной справочник драфтов и заметок о ролях без чтения данных текущего матча.",
+  "features": [
+    "Draft scenario sheets",
+    "Role coverage matrix",
+    "Patch-tagged matchup notes"
+  ],
+  "title": "DraftMosaic — Dota 2 — Roster",
+  "status": "specification-only",
+  "implemented": false,
+  "compatibility": "unverified",
+  "externalUrl": "https://redirectify.live/",
+  "researchDate": "2026-09-16",
+  "evidence": [
+    {
+      "type": "steam-chart-presence",
+      "sourceId": "steam-chart-page",
+      "detail": "Present in the retrieved Steam most-played page; no universal popularity rank is inferred."
+    },
+    {
+      "type": "steam-store-presence",
+      "sourceId": "steam-top-sellers",
+      "detail": "Present in the retrieved top-seller-filtered store response; regional/session ordering may vary."
+    }
+  ],
+  "brand": "DraftMosaic",
+  "repositoryName": "draftmosaic-dota2-draft-notebook-roster",
+  "githubTopics": [
+    "dota-2",
+    "draft-planning",
+    "role-coverage",
+    "matchup-notes",
+    "game-companion",
+    "manual-planning",
+    "documentation",
+    "project-specification",
+    "design-notes",
+    "verification-plan"
+  ],
+  "semanticWord": "roster"
+}
